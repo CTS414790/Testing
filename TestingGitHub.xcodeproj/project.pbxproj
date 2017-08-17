@@ -12,6 +12,7 @@
 		DE2E066D1F456C25003A8CF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE2E066B1F456C25003A8CF3 /* Main.storyboard */; };
 		DE2E066F1F456C25003A8CF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2E066E1F456C25003A8CF3 /* Assets.xcassets */; };
 		DE2E06721F456C25003A8CF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE2E06701F456C25003A8CF3 /* LaunchScreen.storyboard */; };
+		DE2E067A1F4571A6003A8CF3 /* Branc1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2E06791F4571A6003A8CF3 /* Branc1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DE2E066E1F456C25003A8CF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE2E06711F456C25003A8CF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE2E06731F456C25003A8CF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE2E06791F4571A6003A8CF3 /* Branc1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Branc1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DE2E06671F456C25003A8CF3 /* AppDelegate.swift */,
 				DE2E06691F456C25003A8CF3 /* ViewController.swift */,
 				DE2E066B1F456C25003A8CF3 /* Main.storyboard */,
+				DE2E06791F4571A6003A8CF3 /* Branc1ViewController.swift */,
 				DE2E066E1F456C25003A8CF3 /* Assets.xcassets */,
 				DE2E06701F456C25003A8CF3 /* LaunchScreen.storyboard */,
 				DE2E06731F456C25003A8CF3 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE2E066A1F456C25003A8CF3 /* ViewController.swift in Sources */,
+				DE2E067A1F4571A6003A8CF3 /* Branc1ViewController.swift in Sources */,
 				DE2E06681F456C25003A8CF3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				DE2E06781F456C25003A8CF3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
