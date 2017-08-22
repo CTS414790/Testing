@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		67597E441F4C24350022ED58 /* AddingToTestTerminal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67597E431F4C24350022ED58 /* AddingToTestTerminal.swift */; };
 		DE2E06681F456C25003A8CF3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2E06671F456C25003A8CF3 /* AppDelegate.swift */; };
 		DE2E066A1F456C25003A8CF3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2E06691F456C25003A8CF3 /* ViewController.swift */; };
 		DE2E066D1F456C25003A8CF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE2E066B1F456C25003A8CF3 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		67597E431F4C24350022ED58 /* AddingToTestTerminal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddingToTestTerminal.swift; sourceTree = "<group>"; };
 		DE2E06641F456C25003A8CF3 /* TestingGitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestingGitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE2E06671F456C25003A8CF3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE2E06691F456C25003A8CF3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		DE2E06661F456C25003A8CF3 /* TestingGitHub */ = {
 			isa = PBXGroup;
 			children = (
+				67597E431F4C24350022ED58 /* AddingToTestTerminal.swift */,
 				DE2E06671F456C25003A8CF3 /* AppDelegate.swift */,
 				DE2E06691F456C25003A8CF3 /* ViewController.swift */,
 				DE2E066B1F456C25003A8CF3 /* Main.storyboard */,
@@ -142,6 +145,7 @@
 				DE2E066A1F456C25003A8CF3 /* ViewController.swift in Sources */,
 				DE2E067A1F4571A6003A8CF3 /* Branc1ViewController.swift in Sources */,
 				DE2E06681F456C25003A8CF3 /* AppDelegate.swift in Sources */,
+				67597E441F4C24350022ED58 /* AddingToTestTerminal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
